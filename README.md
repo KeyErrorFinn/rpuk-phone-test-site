@@ -2,6 +2,13 @@
 
 [![Last commit](https://img.shields.io/github/last-commit/KeyErrorFinn/rpuk-phone-test-site)](https://github.com/KeyErrorFinn/rpuk-phone-test-site/commits/main) [![Issues](https://img.shields.io/github/issues/KeyErrorFinn/rpuk-phone-test-site)](https://github.com/KeyErrorFinn/rpuk-phone-test-site/issues)
 
+<p align="center">
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff" />
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" />
+  <img alt="Responsive testing" src="https://img.shields.io/badge/Responsive%20testing-8B5CF6?logoColor=fff" />
+</p>
+
 A small static page for testing browser/device information and responsive behaviour in an RPUK phone-style environment.
 
 ## How it works

@@ -1,6 +1,9 @@
 # RPUK Phone Test Site
 
-[![Last commit](https://img.shields.io/github/last-commit/KeyErrorFinn/rpuk-phone-test-site)](https://github.com/KeyErrorFinn/rpuk-phone-test-site/commits/main) [![Issues](https://img.shields.io/github/issues/KeyErrorFinn/rpuk-phone-test-site)](https://github.com/KeyErrorFinn/rpuk-phone-test-site/issues)
+<p align="center">
+  <a href="https://github.com/KeyErrorFinn/rpuk-phone-test-site/commits/main"><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/KeyErrorFinn/rpuk-phone-test-site" /></a>
+  <a href="https://github.com/KeyErrorFinn/rpuk-phone-test-site/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/KeyErrorFinn/rpuk-phone-test-site" /></a>
+</p>
 
 <p align="center">
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff" />
